@@ -1,0 +1,14 @@
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\Admin.AssemblyInfoInputs.cache
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\Admin.AssemblyInfo.cs
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\Admin.csproj.CoreCompileInputs.cache
+C:\Users\gruca\source\repos\Admin\Admin\bin\Debug\net8.0\Admin.exe
+C:\Users\gruca\source\repos\Admin\Admin\bin\Debug\net8.0\Admin.deps.json
+C:\Users\gruca\source\repos\Admin\Admin\bin\Debug\net8.0\Admin.runtimeconfig.json
+C:\Users\gruca\source\repos\Admin\Admin\bin\Debug\net8.0\Admin.dll
+C:\Users\gruca\source\repos\Admin\Admin\bin\Debug\net8.0\Admin.pdb
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\Admin.dll
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\refint\Admin.dll
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\Admin.pdb
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\Admin.genruntimeconfig.cache
+C:\Users\gruca\source\repos\Admin\Admin\obj\Debug\net8.0\ref\Admin.dll
